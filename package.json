@@ -68,13 +68,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/bigyanpoudel/sd-test-button"
+        "url": "https://github.com/joshbird/sd-test-button"
     },
     "keywords": [],
-    "author": "josh",
+    "author": "josh collis-bird",
     "bugs": {
-        "url": "https://github.com/bigyanpoudel/sd-test-button/issues"
+        "url": "https://github.com/joshbird/sd-test-button"
     },
-    "homepage": "https://github.com/bigyanpoudel/sd-test-button#readme",
+    "homepage": "https://github.com/joshbird/sd-test-button",
     "license": "MIT"
 }
